@@ -1,4 +1,4 @@
-### Olá eu sou o Luís S. Calei Gabri
+### Olá, Seja bem vindo(a) 🖐️
 
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luiscaleigabriel0/)
 
@@ -14,8 +14,6 @@
     <img align="center" alt="bootsstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
     <img align="center" alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </div> <br />
-
-Apaixonado por tecnologia e por mudar a vida das pessoas através da programação
 
 ### Contacto
 - luiscaleigabriel@gmail.com
