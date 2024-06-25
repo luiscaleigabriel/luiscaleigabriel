@@ -14,12 +14,13 @@
     <img style="width: 50px" align="center" alt="laravel" src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a" />
     <img style="width: 50px" align="center" alt="git" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" />
     <img style="width: 50px" align="center" alt="github" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" />
-</div> <br />
+</div> <br />   
 
 ### Contacto
 - luiscaleigabriel@gmail.com
-
+- 
 ### Projetos front-end
-- [Agência de Viagens Fake](https://angenciadeviagensfake.netlify.app){:target="_blank"}
-- [Frontbox]([https://angenciadeviagensfake.netlify.app](https://frontbox-eight.vercel.app/)){:target="_blank"}
-- [Agência Fake](https://agencia-fake-alpha.vercel.app/){:target="_blank"}
+- [Agência de Viagens Fake](https://angenciadeviagensfake.netlify.app){:target="_blank"}.
+- [Frontbox]([https://angenciadeviagensfake.netlify.app](https://frontbox-eight.vercel.app/)){:target="_blank"}.
+- [Agência Fake](https://agencia-fake-alpha.vercel.app/){:target="_blank"}.
+- 
