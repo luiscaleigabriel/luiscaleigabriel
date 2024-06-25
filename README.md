@@ -20,6 +20,6 @@
 - luiscaleigabriel@gmail.com
   
 ### Projetos front-end
-- [Agência de Viagens Fake](https://angenciadeviagensfake.netlify.app)(:target="_blank").
-- [Frontbox](https://frontbox-eight.vercel.app/)(:target="_blank").
-- [Agência Fake](https://agencia-fake-alpha.vercel.app/)(:target="_blank").
+- [Agência de Viagens Fake](https://angenciadeviagensfake.netlify.app)
+- [Frontbox](https://frontbox-eight.vercel.app/)
+- [Agência Fake](https://agencia-fake-alpha.vercel.app/)
