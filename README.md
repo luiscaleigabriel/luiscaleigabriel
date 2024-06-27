@@ -18,7 +18,7 @@
 
 ### Contacto
 - Email: luiscaleigabriel@gmail.com
-- Linkedin: <a href="www.linkedin.com/in/luís-gabriel-0534b72aa" target="_blank">Luís Gabriel</a>
+- Linkedin: <a href="https://www.linkedin.com/in/lu%C3%ADs-gabriel-0534b72aa/" target="_blak">Luís Gabriel</a>
   
 ### Projetos front-end
 - [Agência de Viagens Fake](https://angenciadeviagensfake.netlify.app)
