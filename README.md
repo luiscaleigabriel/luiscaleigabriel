@@ -1,6 +1,6 @@
 ### Olá, Seja bem vindo(a) 🖐️
 
-[![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white){:target="_blank"}](https://www.instagram.com/luiscaleigabriel0/)
+[![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luiscaleigabriel0/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luiscaleigabriel&show_icons=true&theme=dracula)
 
@@ -18,7 +18,7 @@
 
 ### Contacto
 - Email: luiscaleigabriel@gmail.com
-- Linkedin: <a href="www.linkedin.com/in/luís-gabriel-0534b72aa" target="_blak">Luís Gabriel</a>
+- Linkedin: <a href="www.linkedin.com/in/luís-gabriel-0534b72aa" target="_blank">Luís Gabriel</a>
   
 ### Projetos front-end
 - [Agência de Viagens Fake](https://angenciadeviagensfake.netlify.app)
