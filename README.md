@@ -1,6 +1,6 @@
-![image](https://github.com/luiscaleigabriel/luiscaleigabriel/assets/132252803/8231a0eb-62f2-46f4-834a-2aad90e32212)### Olá, Seja bem vindo(a) 🖐️
+### Olá, Seja bem vindo(a) 🖐️
 
-[![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luiscaleigabriel0/)
+[![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white){:target="_blank"}](https://www.instagram.com/luiscaleigabriel0/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luiscaleigabriel&show_icons=true&theme=dracula)
 
